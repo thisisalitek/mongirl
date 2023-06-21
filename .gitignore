@@ -1,5 +1,4 @@
-# Object file
-*.o
+!!__*
+*temp*
 
-# Ada Library Information
-*.ali
+*.bat
